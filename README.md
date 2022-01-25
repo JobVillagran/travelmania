@@ -1,4 +1,4 @@
-# travelmania
+# Travelmania
 Frontend Android App
 
 <br>
